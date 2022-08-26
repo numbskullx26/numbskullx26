@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
+<h2 align="center"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  width="400px"></h2>
 
 <h1 align="center">Hi, I'm Indrajeet👋</h1>
 <h3 align="center">I'm a Beginner programmer.</h3>
