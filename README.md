@@ -1,5 +1,5 @@
 
-<h2 align="center"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  width="400px"></h2>
+<h2 align="center"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  width="480px"></h2>
 
 <h1 align="center">Hi, I'm Indrajeet👋</h1>
 <h3 align="center">I'm a Beginner programmer.</h3>
