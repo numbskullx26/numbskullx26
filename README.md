@@ -4,13 +4,14 @@
 <h1 align="center">Hi, I'm Indrajeet👋</h1>
 <h3 align="center">I'm a Beginner programmer.</h3>
 <h3 align="center"> I’m an CSE AIML Major at SRM University KTR</h3>
-
+<p align= "center">I'm a hard working individiual and have a craving for knowledge in any form possible. I leave no stone unturned to complete the tasks which i've been assigned with.</p>
    
     
     
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 How to reach me : **sarkarraj1978@gmail.com**
 - 💞️I’m looking to collaborate on Web Development , AI/ML projects
+- ⭐ Currently working out Projects based on Front End Web Development.
 
 
 ## 🚀 Languages and Tools:
