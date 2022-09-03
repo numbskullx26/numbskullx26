@@ -48,9 +48,10 @@
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=numbskullx26&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<img width="340" height="155" align="center" 
+<!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-numbskullx26.vercel.app/api/top-langs/?username=numbskullx26&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
-</p>
+</p> -->
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
 <p align="left">
