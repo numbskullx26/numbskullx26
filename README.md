@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"   width="40px"></h2>
-<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
-<h1 align="center">Hi, I'm Indrajeet👋</h1>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h1 align="center">Hi, I'm Indrajeet <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"   width="40px"></h2></h1>
 <h3 align="center">I'm a Beginner programmer.</h3>
 <h3 align="center"> I’m an CSE AIML Major at SRM University KTR</h3>
 <!-- <p align= "center">I'm a hard working individiual and have a craving for knowledge in any form possible. I leave no stone unturned to complete the tasks which i've been assigned with.</p> -->
