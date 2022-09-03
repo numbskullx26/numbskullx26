@@ -1,4 +1,5 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"   width="400px"></h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"   width="40px"></h2>
+<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 <h1 align="center">Hi, I'm Indrajeet👋</h1>
 <h3 align="center">I'm a Beginner programmer.</h3>
 <h3 align="center"> I’m an CSE AIML Major at SRM University KTR</h3>
