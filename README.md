@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi, I'm Indrajeet👋🏻</h1>
 <br> 
-
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-<hr>
 <h3 align="center">I'm a AI/ML and Web Developer Enthusiast.</h3>
 <h5 align="center"> Currently pursuing Btech in CSE AI/ML at SRM University KTR</h5>
 <!-- <p align= "center">I'm a hard working individiual and have a craving for knowledge in any form possible. I leave no stone unturned to complete the tasks which i've been assigned with.</p> -->
@@ -12,8 +10,17 @@
     
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 How to reach me : **sarkarraj1978@gmail.com**
-- 💞️I’m looking to collaborate on Web Development , AI/ML projects
-- ⭐ Currently working out Projects based on Front End Web Development.
+- ⭐ I’m currently learning Python & Back-end Web Development
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 🌐 Web Development
+  - 🖼 Artificial Intelligence 
+  - 🛠 Machine Learning
+  - 🤖 Robotics
+- 👯 I’m looking to collaborate on making projects with Front and Back end Web development
+- 💬 Ask me about Python, C , C++ , HTML , CSS , JAVASCRIPT
+- 📙 Check out my [Resume]
+- 🎉 Fun-Fact: I ❤️ Reading Books and watch a lot Sci-Fi Movies and TV-shows🎬
 
 
 ### 🖥️ My DevSetup
