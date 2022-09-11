@@ -51,7 +51,7 @@
 </p>
 <hr>
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=numbskullx26&show_icons=true&line_height=21&theme=react" alt="NUmbskullx26's Github Stats" />
+<img width="450" src="https://github-readme-stats-defcon27.vercel.app/api?username=numbskullx26&show_icons=true&line_height=21&theme=react" alt="NUmbskullx26's Github Stats" />
 </p>
 <hr>
 <!-- < <img width="340" height="155" align="center" 
