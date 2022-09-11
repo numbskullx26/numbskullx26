@@ -57,14 +57,14 @@
 <!-- < <img width="340" height="155" align="center" 
      src="https://github-readme-stats-numbskullx26.vercel.app/api/top-langs/?username=numbskullx26&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
    <br>
-   <p>
+   <p align="center">
    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&langs_count=3)](https://github.com/anuraghazra/github-readme-stats">
    <hr>
 </p> 
   
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/indrajeet-sarkar-3bb210224/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_.indraaa_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
