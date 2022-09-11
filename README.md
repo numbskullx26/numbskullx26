@@ -47,7 +47,7 @@
 ### 🚀 Quick Stats
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=numbkullx26&theme=react-dark">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Numbskullx26&theme=react-dark">
 </p>
 <hr>
 <p align="center">
