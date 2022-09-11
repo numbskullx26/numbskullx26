@@ -56,7 +56,7 @@
 <!-- < <img width="340" height="155" align="center" 
      src="https://github-readme-stats-numbskullx26.vercel.app/api/top-langs/?username=numbskullx26&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
    <br>
-   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&langs_count=3)](https://github.com/anuraghazra/github-readme-stats">
+   <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&langs_count=3)](https://github.com/anuraghazra/github-readme-stats">
    <hr>
 </p> 
   
