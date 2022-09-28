@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Indrajeet👋🏻</h1>
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 <br>
 <h3 align="center">I'm a AI/ML and Web Developer Enthusiast.</h3>
 <h5 align="center"> Currently pursuing Btech in CSE AI/ML at SRM University KTR</h5>
