@@ -44,10 +44,6 @@
 
 
 ### 🚀 Quick Stats
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Numbskullx26&theme=react-dark">
-</p>
 <hr>
 <p align="center">
 <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api?username=numbskullx26&show_icons=true&line_height=21&theme=react" alt="NUmbskullx26's Github Stats" />
