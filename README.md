@@ -9,7 +9,7 @@
     
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 How to reach me : **sarkarraj1978@gmail.com**
-- ⭐ I’m currently learning Python & Back-end Web Development
+- ⭐ I’m currently learning Python & Machine Learning 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌐 Web Development
