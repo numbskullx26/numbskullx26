@@ -13,12 +13,9 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌐 Web Development
-  - 🖼 Artificial Intelligence 
   - 🛠 Machine Learning
 - 👯 I’m looking to collaborate on making projects with Front and Back end Web development
 - 💬 Ask me about Python, C , C++ , HTML , CSS , JAVASCRIPT
-- 📙 Check out my [Resume]
-- 🎉 Fun-Fact: I ❤️ Reading Books and watch a lot Sci-Fi Movies and TV-shows🎬
 
 
 ### 🖥️ My DevSetup
