@@ -42,8 +42,10 @@
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/numbskullx26/github-readme-stats"><img alt="Indrajeet Sarkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Shaurya Srinet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
-|[![Indrajeet Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/numbskullx26)|
+<!-- <a href="https://github.com/numbskullx26/github-readme-stats"><img alt="Indrajeet Sarkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Shaurya Srinet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
+ -->
+ |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/numbskullx26)|[![Rushi's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=numbskullx26&theme=midnight-purple&hide_border=true)](https://github.com/numbskullx26)
+|[![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/numbskullx26)|
 <br/>
 <br/>
 <br/>
