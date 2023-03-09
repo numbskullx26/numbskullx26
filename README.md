@@ -3,7 +3,7 @@
 <br>
 <h3 align="center">I'm a AI/ML and Web Developer Enthusiast.</h3>
 <h5 align="center"> Currently pursuing Btech in CSE AI/ML at SRM University KTR</h5>
-<p align= "center">I'm a hard working individiual and have a craving for knowledge in any form possible. I leave no stone unturned to complete the tasks which i've been assigned with.</p> 
+<p align= "center">Enthusiastic AI/ML Sophomore at SRMIST KTR. Skilled in various languages like C, C++, Java, Python. Skilled in Web Development Technologies like HTML, CSS, JavaScript, NodeJS, Express.js. Currently learning and focusing on Machine Learning algorithms, Natural Language Processing (NLP) and Deep Learning. Open to work and collaborate on Web Development Projects.</p> 
    
     
     
