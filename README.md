@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Indrajeet👋🏻</h1>
 <br>
 <h3 align="center">I'm a AI/ML and Web Developer Enthusiast.</h3>
-<h5 align="center"> Currently pursuing Btech in CSE AI/ML at SRM University KTR</h5>
 <p align= "center">Enthusiastic AI/ML Sophomore at SRMIST KTR. Skilled in various languages like C, C++, Java, Python. Skilled in Web Development Technologies like HTML, CSS, JavaScript, NodeJS, Express.js. Currently learning and focusing on Machine Learning algorithms, Natural Language Processing (NLP) and Deep Learning. Open to work and collaborate on Web Development Projects.</p> 
    
     
