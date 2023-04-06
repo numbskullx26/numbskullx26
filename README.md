@@ -4,6 +4,12 @@
 <h3 align="center">I'm a AI/ML and Web Developer Enthusiast.</h3>
 <p align= "center">Enthusiastic AI/ML Sophomore at SRMIST KTR. Skilled in various languages like C, C++, Java, Python. Skilled in Web Development Technologies like HTML, CSS, JavaScript, NodeJS, Express.js. Currently learning and focusing on Machine Learning algorithms, Natural Language Processing (NLP) and Deep Learning. Open to work and collaborate on Web Development Projects.</p> 
    
+   
+<h3>Profile Visits</h3>
+
+
+![Visitor Count](https://profile-counter.glitch.me/numbskullx26/count.svg)
+
     
     
 - 🔭 I’m currently working on Front End Web Development
