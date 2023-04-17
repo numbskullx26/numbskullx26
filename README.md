@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="200px"/></a></h1>
+
 <h1 align="center">Hi, I'm Indrajeet👋🏻</h1>
 <br>
 <h3 align="center">I'm a AI/ML and Web Developer Enthusiast.</h3>
