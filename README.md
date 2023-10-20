@@ -66,7 +66,7 @@
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-[![Numbskullx26's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=radical&hide_border=false)](https://github.com/numbskullx26)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&theme=radical&hide_title=true)](https://github.com/numbskullx26)|
+[![numbskullx26's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=numbskullx26&theme=radical&hide_border=false)](https://github.com/numbskullx26)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&theme=radical&hide_title=true)](https://github.com/numbskullx26)|
 
 <br/>
 
