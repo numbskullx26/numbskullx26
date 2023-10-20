@@ -9,7 +9,7 @@
 <h3>Profile Visits</h3>
 
 
-![Visitor Count](https://profile-counter.glitch.me/Numbskullx26/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/numbskullx26/count.svg)
 
 
 - 🌱 I’m currently learning ** TypeScript and NextJS 13 **
@@ -66,14 +66,14 @@
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-[![Numbskullx26's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=radical&hide_border=false)](https://github.com/Numbskullx26)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Numbskullx26&show_icons=true&theme=radical&hide_title=true)](https://github.com/Numbskullx26)|
+[![Numbskullx26's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=radical&hide_border=false)](https://github.com/numbskullx26)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&theme=radical&hide_title=true)](https://github.com/numbskullx26)|
 
 <br/>
 
 
 |🎯 Most used languages 🏆| 
 |----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numbskullx26&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/Numbskullx26)|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/numbskullx26)|
 
 
 
