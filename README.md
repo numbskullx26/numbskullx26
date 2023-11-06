@@ -11,10 +11,13 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/numbskullx26/count.svg)
+<br>
 
 |Projects|Hackathons|
 |-----------|---------|
 | AI Based Condition Monitorig System | SIH Interal hackathon:  Top #35 teams of SRM University |
+
+<br>
 
 
 - 🌱 I’m currently learning ** TypeScript and NextJS 13 **
