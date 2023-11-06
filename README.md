@@ -14,7 +14,7 @@
 
 |Projects|Hackathons|
 |-----------|---------|
-| SIH Interal hackathon | Shortlisted among the top 35 teams of SRM University |
+| AI Based Condition Monitorig System | SIH Interal hackathon:  Top #35 teams of SRM University |
 
 
 - 🌱 I’m currently learning ** TypeScript and NextJS 13 **
