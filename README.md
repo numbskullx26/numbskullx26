@@ -23,7 +23,7 @@
 <br>
 
 
-- 🌱 I’m currently learning ** TypeScript and NextJS 13 **
+- 🌱 I’m currently learning ** MERN Stack  **
 
 - 💬 Ask me about ** Front End Web Development **
 
