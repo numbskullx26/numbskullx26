@@ -8,7 +8,6 @@
 
 <h3>Profile Visits</h3>
 
-
 ![Visitor Count](https://profile-counter.glitch.me/numbskullx26/count.svg)
 
 
