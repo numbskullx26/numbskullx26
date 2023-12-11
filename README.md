@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Indrajeet Sarkar</h1>
 
-<h2 align = "center"> Aspiring Fullstack Web Developer <h2/>
+<h2 align = "center"> MERN Dev @ Tata Technologies || Aspiring Fullstack Web Developer <h2/>
 
 <h3>Profile Visits</h3>
 
