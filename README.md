@@ -60,7 +60,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+    <br/>
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
@@ -72,6 +72,7 @@
 |🎯 Most used languages 🏆| 
 |----------------------------------|
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/numbskullx26)|
+
 
 
 
