@@ -60,7 +60,6 @@
 
 ## 📊 My Github Stats
 
-    <br/>
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
