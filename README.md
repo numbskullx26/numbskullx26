@@ -22,9 +22,9 @@
 <br>
 
 
-- 🌱 I’m currently learning ** MERN Stack  **
+- 🌱 I’m currently learning ** Solidity  **
 
-- 💬 Ask me about ** Front End Web Development **
+- 💬 Ask me about ** FullStack Web Development **
 
 - ⚡ Fun fact: I love to Sleep!!
 
