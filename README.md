@@ -22,7 +22,7 @@
 <br>
 
 
-- 🌱 I’m currently learning ** Solidity  **
+- 🌱 I’m currently learning **Data Structures**
 
 - 💬 Ask me about ** FullStack Web Development **
 
