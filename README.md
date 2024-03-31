@@ -5,7 +5,7 @@
 
 
 
-<h2 align = "center"> MERN Dev @ Tata Technologies || Fullstack Web Developer <h2/>
+<h2 align = "center"> Web3 Enthusiast || MERN Dev @ Tata Technologies || Fullstack Web Developer <h2/>
 
 <h3>Profile Visits</h3>
 
