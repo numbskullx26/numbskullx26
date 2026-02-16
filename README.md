@@ -8,15 +8,6 @@
 <h2 align = "center"> SDE @ Broadridge Financial Services || Fullstack Web3 Developer <h2/>
 
 
-<br>
-
-|Projects|Hackathons|
-|-----------|---------|
-| AI Based Condition Monitorig System | SIH Interal hackathon:  Top #35 teams of SRM University |
-
-<br>
-
-
 <h1 align="center"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1> 
 
 
