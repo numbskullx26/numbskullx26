@@ -55,19 +55,6 @@
 |----------------------------------|----------------------------|
 [![numbskullx26's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=numbskullx26&theme=radical&hide_border=false)](https://github.com/numbskullx26)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&theme=radical&hide_title=true)](https://github.com/numbskullx26)|
 
-<br/>
-
-
-|🎯 Most used languages 🏆| 
-|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/numbskullx26)|
-
-
-
-
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
